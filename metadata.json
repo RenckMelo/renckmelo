@@ -1,0 +1,5 @@
+{
+  "name": "MedConsult - Assistente de Anamnese e Conduta",
+  "description": "Plataforma de auxílio médico com modelos de anamnese por especialidade e guia de prescrição baseada em evidências.",
+  "requestFramePermissions": []
+}
